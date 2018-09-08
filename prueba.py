@@ -1,8 +1,8 @@
-def suma(a, b):
-    return( a+b )
+def suma(x, y):
+    return( x+y )
 
     print(suma(2, 3))
-def resta(a, b):
-    return( a-b )
+def resta(x, y):
+    return( x-y )
 
 print(resta(2, 3))
